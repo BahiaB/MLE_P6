@@ -1,0 +1,10 @@
+Pillow
+numpy
+scikit-image
+scikit-learn
+matplotlib
+tensorflow
+keras
+fastapi
+streamlit
+uvicorn
